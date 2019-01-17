@@ -2,11 +2,11 @@
 Pandas基础练习
 
 #目录 
-0.导语 
-1.Series 
-2.DataFrame 
-2.1 DataFrame的简单运用 
-3.pandas选择数据 
+ 0.导语 
+ 1.Series 
+ 2.DataFrame 
+ 2.1 DataFrame的简单运用 
+ 3.pandas选择数据 
 3.1 实战筛选 
 3.2 筛选总结 
 4.Pandas设置值 
